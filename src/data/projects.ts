@@ -7,6 +7,13 @@ export const projects = [
     
   },
   {
+    title: "Cloud-Scale Job & Resume Platform",
+    description: "Designed and built a scalable full stack job platform supporting user authentication, profiles and job postings with sub-400ms API response times.",
+    tech: ["Spring Boot | React | PostgreSQL"],
+    
+  },
+
+  {
     title: "CineGPT – AI-Powered Movie Recommendation Chatbot",
     description: "an intelligent movie-recommendation assistant combining TMDB data with LLM-based reasoning.",
     tech: ["Node.js | React | Hugging Face | LangChain | TMDB API"],
@@ -14,17 +21,17 @@ export const projects = [
   },
 
   {
-    title: "Chronic Kidney Disease Analysis",
-    description: "Developed a comprehensive analysis of chronic kidney disease data using Python. Performed data cleaning, pre-processing, and exploratory data analysis on a dataset containing patient information.",
-    tech: ["Python (Programming Language) · Machine Learning · Data Analysis · Flask"],
-    github: "https://github.com/sravani161/CKD-Prediction",
+    title: "Stock Trading & Portfolio System",
+    description: "Built a scalable stock trading simulation platform",
+    tech: ["Spring Boot | PostgreSQL | Redis"],
+    
   },
 
   {
-    title: "Gaming Survey Dashboard",
-    description: "Built an interactive Tableau dashboard with dynamic filters to enable insight exploration for non-technical stakeholder.",
-    tech: ["Python (Pandas, Matplotlib, Seaborn) | Tableau"],
-    github: "https://github.com/sravani161/Data-Visualisation",
+    title: "Stripe-Style Payment & Wallet System",
+    description: "Engineered a distributed payment processing system handling simulated financial transactions with ACID-compliant transaction management..",
+    tech: ["Node.js | TypeScript | PostgreSQL"],
+    
   },
 
 

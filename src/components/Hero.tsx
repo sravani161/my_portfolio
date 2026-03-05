@@ -28,7 +28,7 @@ export default function Hero() {
 
       {/* Resume Button */}
       <a
-        href="/SRAVANI RESUME.pdf"
+        href="/Sravani Resume.pdf"
         target="_blank"
         className="
           mt-8 px-8 py-3 rounded-full font-medium

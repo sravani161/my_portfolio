@@ -19,8 +19,8 @@ export default function Contact() {
 
       <div className="flex justify-center gap-6">
         {[ 
-          { icon: Linkedin, link: "https://www.linkedin.com/in/sravani-balguri-b56a561b1/", label: "LinkedIn" },
-          { icon: Mail, link: "mailto:sravanibalguri6@email.com", label: "Email" },
+          { icon: Linkedin, link: "https://www.linkedin.com/in/sravani-balguri/", label: "LinkedIn" },
+          { icon: Mail, link: "mailto:sravanibalguri5@email.com", label: "Email" },
           { icon: Phone, link: "tel:+1(602)300-9624", label: "Phone" },
         ].map(({ icon: Icon, link, label }) => (
           <a
