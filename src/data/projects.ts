@@ -31,6 +31,7 @@ export const projects = [
     title: "Stripe-Style Payment & Wallet System",
     description: "Engineered a distributed payment processing system handling simulated financial transactions with ACID-compliant transaction management..",
     tech: ["Node.js | TypeScript | PostgreSQL"],
+    github: "https://github.com/sravani161/Payment_wallet",
     
   },
 
